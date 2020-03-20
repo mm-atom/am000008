@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/am000008",
-	"version": "1.0.202003200933",
+	"version": "1.0.202003200950",
 	"description": "打开支付宝",
 	"scripts": {
 		"test": "tsc -w",
